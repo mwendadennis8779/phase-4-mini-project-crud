@@ -1,0 +1,15 @@
+current directory: /home/mwendadennis/Assignments/Development/Code/Phase4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/mwendadennis/Assignments/Development/Code/Phase4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230314-12275-wic4sd sitelibdir\=./.gem.20230314-12275-wic4sd clean
+
+current directory: /home/mwendadennis/Assignments/Development/Code/Phase4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230314-12275-wic4sd sitelibdir\=./.gem.20230314-12275-wic4sd
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/mwendadennis/Assignments/Development/Code/Phase4/phase-4-mini-project-crud/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230314-12275-wic4sd sitelibdir\=./.gem.20230314-12275-wic4sd install
+/bin/install -m 0755 websocket_mask.so ./.gem.20230314-12275-wic4sd
